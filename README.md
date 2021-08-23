@@ -74,7 +74,7 @@ Or use [TryRuby playground](https://try.ruby-lang.org/playground/)
 
   - Example: `arr = [12, 47, 35]`
   - `min`, `max` e.g. `[12, 47, 35].min`
-  - `sort` and `sort!` (see methods conventions section below)
+  - `sort` and `sort!` (see *Functions/Methods > Conventions* section below)
   - `[n]` access the nth element e.g. `arr[0]`
   - `each` e.g. `arr.each { |value| puts value }`
   - `select` e.g. `arr.select { |value| value > 30 }`
