@@ -1,17 +1,17 @@
 # Learning Ruby 💎
 
-## Install
+## 💽 Install
 
 Download Ruby: https://www.ruby-lang.org/en/downloads/  
 e.g. on Windows: https://rubyinstaller.org/downloads/  
 Or use [TryRuby playground](https://try.ruby-lang.org/playground/)
 
-## Learn
+## 👨‍🏫 Learn
 
 - [TryRuby](https://try.ruby-lang.org/)
 - [Learn Ruby in One Hour](https://youtu.be/f7-ezt0xlAI) by [TechmakerTV](https://www.youtube.com/channel/UCaT8uPGUYbdRsjm4cJy1D7w)
 
-## Summary
+## 📃 Cheatsheet
 
 - General
 
