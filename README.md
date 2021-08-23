@@ -4,12 +4,12 @@
 
 Download Ruby: https://www.ruby-lang.org/en/downloads/  
 e.g. on Windows: https://rubyinstaller.org/downloads/  
-Or use [TryRuby playground](https://try.ruby-lang.org/playground/)
+Or use [TryRuby playground](https://try.ruby-lang.org/playground/) online
 
 ## 👨‍🏫 Learn
 
-- [TryRuby](https://try.ruby-lang.org/)
-- [Learn Ruby in One Hour](https://youtu.be/f7-ezt0xlAI) by [TechmakerTV](https://www.youtube.com/channel/UCaT8uPGUYbdRsjm4cJy1D7w)
+- [TryRuby](https://try.ruby-lang.org/) online interactive tutorial
+- [Learn Ruby in One Hour](https://youtu.be/f7-ezt0xlAI), YouTube video by [TechmakerTV](https://www.youtube.com/channel/UCaT8uPGUYbdRsjm4cJy1D7w)
 
 ## 📃 Cheatsheet
 
@@ -18,7 +18,7 @@ Or use [TryRuby playground](https://try.ruby-lang.org/playground/)
   - Parentheses: `puts "Hello"` is equivalent to `puts("Hello")`
   - Blocks:
     - `do ... end` (is equivalent to `{ ... }`)
-    - `begin ...end`
+    - `begin ... end`
 
 - Flow Control
 
@@ -31,7 +31,7 @@ Or use [TryRuby playground](https://try.ruby-lang.org/playground/)
     - `for ... in ... end` e.g. `for i in 1..3; puts i end`
     - `while/until condition ... end` e.g. `x = 0; while x <= 10; puts x; x += 1 end`
     - `begin ... end while/until condition`
-  - More on Flow Control: [Introduction to Programming with Ruby: Flow Control](https://launchschool.com/books/ruby/read/flow_control) by [Launch School](https://launchschool.com/)
+  - More on Flow Control: [Introduction to Programming with Ruby: Flow Control](https://launchschool.com/books/ruby/read/flow_control) online tutorial by [Launch School](https://launchschool.com/)
 
 - Objects
 
