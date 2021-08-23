@@ -1,4 +1,4 @@
-# Learning Ruby 💎
+# 💎 Learning Ruby
 
 ## 💽 Install
 
